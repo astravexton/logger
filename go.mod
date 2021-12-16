@@ -1,4 +1,4 @@
-module github.com/kris-nova/logger
+module github.com/astravexton/logger
 
 go 1.16
 
